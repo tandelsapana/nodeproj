@@ -1,0 +1,20 @@
+{
+  "name": "nodeproj",
+  "version": "1.0.0",
+  "description": "check node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "boutique",
+    "bridal-wear",
+    "wedding-collection"
+  ],
+  "author": "st",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
